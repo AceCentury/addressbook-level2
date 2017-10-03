@@ -88,7 +88,7 @@ Format: `delete NAME`
 > Deletes the person with the exact, matching `NAME`. 
 
 Examples: 
-* `delete John Doe`<br>
+* `deleteByName John Doe`<br>
   Deletes John Doe from the address book, if the entry exists.
 
 ### View non-private details of a person : `view`
